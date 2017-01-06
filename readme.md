@@ -1,6 +1,4 @@
-# Routing Practice! 🐰
-
-![:image](http://www.alice-in-wonderland.net/wp-content/uploads/1book41.jpg)
+# 🔁 Routing Practice! 🐰
 
 Let's practice routing HTTP requests with our server.
 
