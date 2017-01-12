@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/blizm87/exercise-w04d05-routes-js#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "morgan": "^1.7.0"
   }
